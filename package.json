@@ -1,0 +1,14 @@
+{
+  "name": "array-vs-set",
+  "version": "1.0.0",
+  "description": "demonstration of the advantages from using sets instead arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Cristian David Ippolito",
+  "license": "ISC"
+}
